@@ -10,9 +10,9 @@
         "poolserver",
         "equihash"
     ],
-    "homepage": "https://github.com/veruscoin/s-nomp",
+    "homepage": "https://github.com/daemonfox/s-nomp",
     "bugs": {
-        "url": "https://github.com/veruscoin/s-nomp/issues"
+        "url": "https://github.com/daemonfox/s-nomp/issues"
     },
     "license": "MIT",
     "author": "s-nomp dev team",
@@ -50,7 +50,7 @@
         "pm2": "^3.2.2",
         "redis": "^2.8.0",
         "request": "^2.88.0",
-        "stratum-pool": "git+https://github.com/VerusCoin/node-stratum-pool.git"
+        "stratum-pool": "git+https://github.com/daemonfox/node-stratum-pool.git"
     },
     "engines": {
         "node": ">=8.11"
